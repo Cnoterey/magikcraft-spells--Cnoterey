@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function heal(name) {
+function kill(name) {
 
     magik.auxilium(name);
 }

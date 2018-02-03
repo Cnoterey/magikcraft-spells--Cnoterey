@@ -52,7 +52,7 @@ function cl() {
 
    magik.doNTimes(() => {
        magik.doNTimes(() => {
-           magik.doNTimes(() => {blast()}, 15, 10000)}, 
+           magik.doNTimes(() => {blast()}, 15, 500)}, 
         15)}, 
     15, p5);
 }

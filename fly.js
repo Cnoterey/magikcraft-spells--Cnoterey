@@ -1,4 +1,5 @@
 const magik = magikcraft.io;
-function die(){
-    magik.die();
+function fly(){
+    magik.fly
+    ();
 }

@@ -3,5 +3,5 @@ const magik = magikcraft.io;
 
 function fast() {
     magik.celeritate();
-    magik.getSender().setFlySpeed(1);
+    magik.getSender().setFlySpeed(6);
 }
